@@ -22,3 +22,5 @@ int main(){
     for(auto i : var) cout<<i;
     return 0;
 }
+
+// https://leetcode.com/problems/two-sum/

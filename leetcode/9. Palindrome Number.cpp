@@ -16,3 +16,5 @@ int main(){
     std::cout<<Palindrome_Number(x);
     return 0;
 }
+
+// https://leetcode.com/problems/palindrome-number/

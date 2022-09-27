@@ -25,4 +25,6 @@ int main(){
     return 0;
 }
 
+// https://leetcode.com/problems/number-of-arithmetic-triplets/
+
 // https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/

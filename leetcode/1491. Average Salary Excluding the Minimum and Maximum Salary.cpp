@@ -18,3 +18,5 @@ int main(){
     std::cout<<average(salary);
     return 0;
 }
+
+// https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/

@@ -20,3 +20,5 @@ int main(){
     std::cout<<removeDuplicates(nums);
     return 0;
 }
+
+// https://leetcode.com/problems/remove-duplicates-from-sorted-array/

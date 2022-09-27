@@ -15,3 +15,5 @@ int main(){
     for(auto i:con) {std::cout<<i<<"\t";}
     return 0;
 }
+
+// https://leetcode.com/problems/concatenation-of-array/

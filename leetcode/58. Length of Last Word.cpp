@@ -1,4 +1,3 @@
-// Length of Last Word
 #include <iostream>
 #include <string>
 
@@ -26,3 +25,5 @@ int main(){
     std::cout<<lengthOfLastWord(str);
 	return 0;
 }
+
+// https://leetcode.com/problems/length-of-last-word/

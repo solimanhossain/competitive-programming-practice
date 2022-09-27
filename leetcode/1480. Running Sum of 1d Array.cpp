@@ -19,3 +19,5 @@ int main(){
     for(auto i:sum) {std::cout<<i<<"\t";}
     return 0;
 }
+
+// https://leetcode.com/problems/running-sum-of-1d-array/

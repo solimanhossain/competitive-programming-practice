@@ -6,3 +6,5 @@ def climbStairs(n):
 
 num = int(input())
 print(climbStairs(num))
+
+# https://leetcode.com/problems/climbing-stairs/

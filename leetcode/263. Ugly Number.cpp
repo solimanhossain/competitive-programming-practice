@@ -1,4 +1,3 @@
-// Ugly Number
 #include<iostream>
 
 bool isUgly(int n){
@@ -30,3 +29,5 @@ int main(){
     std::cout<<isUgly(number);
     return 0;
 }
+
+// https://leetcode.com/problems/ugly-number/

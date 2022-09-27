@@ -23,3 +23,5 @@ int main(){
     cout<<endl;
     return 0;
 }
+
+// https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/

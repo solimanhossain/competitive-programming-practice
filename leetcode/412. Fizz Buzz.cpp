@@ -29,3 +29,5 @@ int main(){
     std::cout<<std::endl;
     return 0;
 }
+
+// https://leetcode.com/problems/fizz-buzz/

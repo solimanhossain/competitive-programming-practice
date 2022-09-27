@@ -12,3 +12,5 @@ int main(){
     std::cout<<singleNumber(nums);
     return 0;
 }
+
+// https://leetcode.com/problems/single-number/

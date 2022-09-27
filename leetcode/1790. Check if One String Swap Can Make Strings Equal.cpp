@@ -24,3 +24,5 @@ int main(){
     std::cout<<areAlmostEqual(str1,str2);
     return 0;
 }
+
+// https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/
