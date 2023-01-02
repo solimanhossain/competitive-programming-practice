@@ -1,4 +1,4 @@
-def thirdMax(nums: [int]) -> int:
+def thirdMax(nums) -> int:
     nums.sort()
     nums = list(set(nums))
     nums.sort()
@@ -7,3 +7,5 @@ def thirdMax(nums: [int]) -> int:
 
 nums = [-1,2,3]
 print(thirdMax(nums))
+
+# https://leetcode.com/problems/third-maximum-number/submissions/

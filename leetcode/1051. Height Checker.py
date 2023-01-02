@@ -1,4 +1,4 @@
-def heightChecker(heights: [int]) -> int:
+def heightChecker(heights) -> int:
     count = 0
     check = heights.copy()
     heights.sort()
@@ -9,3 +9,5 @@ def heightChecker(heights: [int]) -> int:
 
 heights = [5,1,2,3,4]
 print(heightChecker(heights))
+
+# https://leetcode.com/problems/height-checker/
