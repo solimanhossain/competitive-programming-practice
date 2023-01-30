@@ -1,6 +1,7 @@
 #include<iostream>
 #include<algorithm>
 #include<vector>
+#include<set>
 
 int removeDuplicates(std::vector<int>& nums) {
     std::sort(nums.begin(),nums.end());
@@ -14,6 +15,14 @@ int removeDuplicates(std::vector<int>& nums) {
     }
     return nums.size();
 }
+
+// int removeDuplicates(std::vector<int>& nums) {
+//     std::set<int> num_set;
+//     for(auto i : nums) num_set.insert(i);
+//     nums.clear();
+//     for(auto i : num_set) nums.push_back(i);
+//     return 0;
+// }
 
 int main(){
     std::vector<int> nums = {1,1,2};
