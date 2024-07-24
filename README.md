@@ -1,4 +1,8 @@
 # Problem Solving Codes
 
-Here is my solves of [Leetcode](https://leetcode.com/solimanhossain/) problemsets.
+-   Leetcode - [Problemsets](https://github.com/solimanhossain/competitive-programming-practice/tree/main/leetcode) | [Profile](https://leetcode.com/solimanhossain/)
+-   Codeforce - [Problemsets](https://github.com/solimanhossain/competitive-programming-practice/tree/main/codeforces) | [Profile](https://codeforces.com/profile/solimanhossain/)
 
+---
+
+<!-- [@solimanhossains](https://www.hackerrank.com/solimanhossains) -->
